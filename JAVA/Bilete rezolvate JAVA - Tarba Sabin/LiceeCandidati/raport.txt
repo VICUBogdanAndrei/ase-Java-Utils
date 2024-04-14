@@ -1,0 +1,5 @@
+1,Pop Marcel,3,8.5
+2,Popescu Maria,2,9.0
+3,Popa Adriana,1,9.9
+4,Comsa Maria,1,9.3
+5,Muntean Loredana,2,9.45
