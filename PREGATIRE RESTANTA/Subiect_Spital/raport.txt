@@ -1,0 +1,5 @@
+          Cod Sectie                    Nume Sectie       Numar Pacienti
+                   1                           ORL                   2
+                   2                  DERMATOLOGIE                   2
+                   3                  OFTALMOLOGIE                   1
+                   4                   CARDIOLOGIE

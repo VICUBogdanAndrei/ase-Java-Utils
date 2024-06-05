@@ -1,0 +1,17 @@
+[
+  {
+    "cod":2,
+    "denumire":"Informatica",
+    "locuri": 112
+  },
+  {
+    "cod":3,
+    "denumire":"Statistica",
+    "locuri": 115
+  },
+  {
+    "cod":4,
+    "denumire":"Cibernetica",
+    "locuri": 130
+  }
+]

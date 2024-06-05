@@ -1,0 +1,6 @@
+123213,"Greceanu Ana",9.58,2
+342342,"Marin Cristiana",9.7,3
+903423,"Atanase Catalin",9.9,2
+534356,"Onoiu",8.9,4
+987294,"Oana",9.2,3
+664888,"Oprescu",9.45,2
